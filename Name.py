@@ -1,1 +1,1 @@
-print("kent Angelo C. Cabanag")
+print("Kent Angelo C. Cabanag")
